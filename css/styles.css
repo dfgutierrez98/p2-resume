@@ -1,7 +1,40 @@
 /* Your Website Styles */
 
+body {
+font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif;
+ background: url(../img/pool_table.png);
+ font-weight: 400;
+ margin: 0 auto;
+ max-width: 1000px;
+ }
 
+
+p {
+	color: #07FAEE;
+	font-size: 25px;
+}
+
+li {
+	color: #07FAEE;
+	font-size: 25px;
+}
 /* Show Grid */
+
+
+
+
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
+}
+
+img{
+	width:450px;
+	height: 600px;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-size: 30px;
+	color:#ECFA8E;
+
 }
